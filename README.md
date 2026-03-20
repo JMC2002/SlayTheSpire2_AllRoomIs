@@ -27,7 +27,7 @@ Steam版本直接在创意工坊订阅即可（暂未开放）
 ## 🧠 1. 简介
 修改所有房间为问号房
 
-[演示视频（B站）](https://www.bilibili.com/video/BV1BnwXziEsc)
+[演示视频（B站）](https://www.bilibili.com/video/BV1dBAHz2Ehk)
 
 [Github仓库](https://github.com/JMC2002/SlayTheSpire2_AllRoomIs)
 ## ⚙️ 2. 功能
